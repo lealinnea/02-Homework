@@ -8,3 +8,6 @@ Adding in each section an Alt="" after each image so if someone with a disablitl
 
 ## Screenshot of Application
 ![Screen Shot 2022-02-02 at 5 37 36 PM](https://user-images.githubusercontent.com/97196262/152255968-a8ee6658-c34f-44b6-8f38-4e7ca57eb0e5.png)
+
+##Link to live Site
+https://lealinnea.github.io/02-Homework/
